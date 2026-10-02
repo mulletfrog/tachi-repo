@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Test Extension",
+    "pkg": "eu.kanade.tachiyomi.extension.id.test",
+    "apk": "https://github.com/keiyoushi/extensions/raw/repo/apk/id.mangadex-v1.492.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0
+  }
+]
